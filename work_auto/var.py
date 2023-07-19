@@ -1,0 +1,1 @@
+WEB_URLS = ("https://www.facebook.com/", "https://www.nimo.tv/", "https://www.youtube.com/")
